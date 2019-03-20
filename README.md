@@ -15,4 +15,6 @@ If you try to create a new discount rule in Magento 2, you'll see a condition ca
    ```
 
 ## Description
-You can find some code explanations in our blog post: ["Cart Price Rules Based on Payment Method Don't Work"](https://www.magestyapps.com/blog/post/issue-cart-price-rules-based-on-payment-method-dont-work/)
+You can find some code explanations in our blog post: [Cart Price Rules Based on Payment Method Don't Work](https://www.magestyapps.com/blog/post/issue-cart-price-rules-based-on-payment-method-dont-work/)
+
+Some of code parts have been taken from our [Payment Fees extension for Magento 2](https://www.magestyapps.com/magento-2-extensions/m2-payment-fees.html)
