@@ -1,4 +1,4 @@
-# magento2-fix-discount-rules
+# Fix cart price rules by Payment Method in Magento 2
 If you try to create a new discount rule in Magento 2, you'll see a condition called "Payment Method" there. This condition means that the discount will be applied in case a customer selects a certain payment method. But actually, this rule will not work due to a small omission in Magento 2 checkout. The module in the repo fixes the issue.
 ## Installation
 #### via Composer (recommended)
