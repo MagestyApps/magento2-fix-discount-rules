@@ -1,7 +1,7 @@
 <?php
 /**
  * Copyright © MagestyApps. All rights reserved.
- *  * See COPYING.txt for license details.
+ * See LICENSE.txt for license details.
  */
 
 namespace MagestyApps\FixRules\Plugin;

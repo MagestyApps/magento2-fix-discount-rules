@@ -1,3 +1,8 @@
+/**
+ * Copyright © MagestyApps. All rights reserved.
+ * See LICENSE.txt for license details.
+ */
+
 define([
     'mage/utils/wrapper',
     'mage/storage',
