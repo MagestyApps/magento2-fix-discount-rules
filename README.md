@@ -1,6 +1,12 @@
 # magento2-fix-discount-rules
 If you try to create a new discount rule in Magento 2, you'll see a condition called "Payment Method" there. This condition means that the discount will be applied in case a customer selects a certain payment method. But actually, this rule will not work due to a small omission in Magento 2 checkout. The module in the repo fixes the issue.
-## How to install:
+## Installation
+#### via Composer (recommended)
+Run the following command from your Mangento root folder:
+```
+   composer require magestyapps/magento2-fix-discount-rules 
+   ```
+#### Manually
 * Create folder 'app/code/MagestyApps/FixRules/' in you Magento setup
 * Extract the repo files to the folder
 * Open console (terminal)
